@@ -1,0 +1,23 @@
+
+g	java:S112r"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8˜®´»¶1
+i
+java:S1192Q"LDefine a constant instead of duplicating this literal "alignx left" 3 times.(ÛëœÁ8œ®´»¶1
+o
+java:S1192="MDefine a constant instead of duplicating this literal "[grow, fill]" 3 times.(Ã‚µÃøÿÿÿÿ8œ®´»¶1
+h
+java:S1192="FDefine a constant instead of duplicating this literal "fillx" 3 times.(Ã‚µÃøÿÿÿÿ8œ®´»¶1
+J
+java:S1604$"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8œ®´»¶1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äù¤Òúÿÿÿÿ8®´»¶1
+k
+java:S32526"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8²®´»¶1
+M
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8É€¸»¶1
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8É€¸»¶1
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8É€¸»¶1
+]
+java:S1128";Remove this unused import 'javax.swing.border.EmptyBorder'.(ÿÍ“ûÿÿÿÿ8É€¸»¶1
+^
+java:S1128"<Remove this unused import 'javax.swing.border.TitledBorder'.(Ê€Ä“ÿÿÿÿÿ8É€¸»¶1
